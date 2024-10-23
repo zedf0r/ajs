@@ -1,0 +1,19 @@
+{
+  "name": "@zedf0r/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zedf0r/ajs.git#main"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zedf0r/ajs/issues"
+  },
+  "homepage": "https://github.com/zedf0r/ajs/tree/main#readme",
+  "description": ""
+}
